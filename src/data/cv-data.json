@@ -1,0 +1,210 @@
+{
+  "fr": {
+    "education": [
+      {
+        "degree": "TRONC COMMUN",
+        "institution": "42 Paris",
+        "year": "2024 - 2025"
+      },
+      {
+        "degree": "BACHELOR DÉVELOPPEMENT WEB",
+        "institution": "MyDigitalSchool Rennes",
+        "year": "2022 - 2024"
+      },
+      {
+        "degree": "LICENCE ÉCONOMIE-GESTION PARCOURS MARKETING",
+        "institution": "Université de Varsovie, Faculté de Management",
+        "year": "2020 - 2021"
+      },
+      {
+        "degree": "DUT TECHNIQUES DE COMMERCIALISATION",
+        "institution": "IUT du Havre, site caucriauville",
+        "year": "2018 - 2020"
+      },
+      {
+        "degree": "BACCALAURÉAT ÉCONOMIQUE ET SOCIAL",
+        "institution": "Lycée Raymond Queneau",
+        "year": "2015 - 2018",
+        "description": "Section Économique et Social, spécialisation Économie Approfondie"
+      }
+    ],
+    "workExperience": [
+      {
+        "jobTitle": "ALTERNANT DÉVELOPPEUR WEB",
+        "company": "Screenup, Rennes (35)",
+        "year": "Octobre - Juin 2024",
+        "responsibilities": ["Conception et création de sites web", "Mise en Production", "Développement opérationnel sur serveur"]
+      },
+      {
+        "jobTitle": "STAGIAIRE DÉVELOPPEUR WEB",
+        "company": "Pangaia, Rennes (35)",
+        "year": "Avril - Juin 2023",
+        "responsibilities": ["Création d'une application avec Vue.js / Docker / Laravel", "Conception de la maquette ", "Travail d'équipe utilisant Git"]
+      },
+      {
+        "jobTitle": "OPÉRATEUR DE SAISIE",
+        "company": "Tessi, Rennes (35)",
+        "year": "Décembre - Juin 2021 - 2022",
+        "responsibilities": ["Saisies bancaires pour le compte des finances publiques", "Ouverture de compte bancaire", "Participation à la démarche qualité"]
+      },
+      {
+        "jobTitle": "STAGIAIRE COMMERCIAL",
+        "company": "ACLP, Le Havre (76)",
+        "year": "Avril - Juin 2020",
+        "responsibilities": ["Développement commercial", "Campagne de mailing", "Création d'un site web sur Prestashop"]
+      },
+      {
+        "jobTitle": "PROJET TUTEURÉ - SKI",
+        "company": "Iut site Caucriauville, Le Havre (76)",
+        "year": "2019 - 2020",
+        "responsibilities": [
+          "Actions commerciales pour financer le projet",
+          "Organisation d'un séjour au ski pour 130 participants",
+          "Négociation du contrat pour l'année suivante"
+        ]
+      },
+      {
+        "jobTitle": "STAGIAIRE EVENEMENTIEL",
+        "company": "Iut site Caucriauville, Le Havre (76)",
+        "year": "Avril 2019",
+        "responsibilities": ["Création d'une plaquette", "Prospection de restaurants partenaires", "Accueil et accompagnement des participants"]
+      }
+    ]
+  },
+  "en": {
+    "education": [
+      {
+        "degree": "COMMON CORE",
+        "institution": "42 Paris",
+        "year": "2024 - 2025"
+      },
+      {
+        "degree": "BACHELOR WEB DEVELOPMENT",
+        "institution": "MyDigitalSchool Rennes",
+        "year": "2022 - 2024"
+      },
+      {
+        "degree": "BACHELOR ECONOMICS, MANAGEMENT AND MARKETING",
+        "institution": "University of Warsaw, Faculty of Management",
+        "year": "2020 - 2021"
+      },
+      {
+        "degree": "DUT SALES TECHNIQUES",
+        "institution": "IUT of le Havre",
+        "year": "2018 - 2020"
+      },
+      {
+        "degree": "High school diploma - social and economic sciences",
+        "institution": "Raymond Queneau High School",
+        "year": "2015 - 2018",
+        "description": "Economic and Social Section, specializing in advanced economics"
+      }
+    ],
+    "workExperience": [
+      {
+        "jobTitle": "WEB DEVELOPER WORK-STUDY",
+        "company": "Screenup, Rennes (35)",
+        "year": "October - June 2024",
+        "responsibilities": ["Website design and creation", "Production deployment", "Operational server development"]
+      },
+      {
+        "jobTitle": "WEB DEVELOPER INTERN",
+        "company": "Pangaia, Rennes (35)",
+        "year": "April - June 2023",
+        "responsibilities": ["Created an application using Vue.js / Docker / Laravel", "Designed the mockup", "Teamwork using Git"]
+      },
+      {
+        "jobTitle": "DATA ENTRY OPERATOR",
+        "company": "Tessi, Rennes (35)",
+        "year": "December - June 2021 - 2022",
+        "responsibilities": ["Bank data entry for public finance purposes", "Bank account opening", "Participation in the quality process"]
+      },
+      {
+        "jobTitle": "SALES INTERN",
+        "company": "ACLP, Le Havre (76)",
+        "year": "April - June 2020",
+        "responsibilities": ["Business development", "Email campaign", "Website creation on Prestashop"]
+      },
+      {
+        "jobTitle": "TUTORED PROJECT - SKI",
+        "company": "IUT Caucriauville campus, Le Havre (76)",
+        "year": "2019 - 2020",
+        "responsibilities": ["Sales actions to fund the project", "Organization of a ski trip for 130 participants", "Negotiation of the contract for the following year"]
+      },
+      {
+        "jobTitle": "EVENTS INTERN",
+        "company": "IUT Caucriauville campus, Le Havre (76)",
+        "year": "April 2019",
+        "responsibilities": ["Creation of a brochure", "Prospecting for partner restaurants", "Welcoming and assisting participants"]
+      }
+    ]
+  },
+  "vi": {
+    "education": [
+      {
+        "degree": "CHƯƠNG TRÌNH CHUNG",
+        "institution": "42 Paris",
+        "year": "2024 - 2025"
+      },
+      {
+        "degree": "CỬ NHÂN PHÁT TRIỂN WEB",
+        "institution": "MyDigitalSchool Rennes",
+        "year": "2022 - 2024"
+      },
+      {
+        "degree": "CỬ NHÂN KINH TẾ - QUẢN LÝ VÀ MARKETING",
+        "institution": "Đại học Warsaw, Khoa Quản lý",
+        "year": "2020 - 2021"
+      },
+      {
+        "degree": "DUT KỸ THUẬT BÁN HÀNG",
+        "institution": "IUT Le Havre, cơ sở Caucriauville",
+        "year": "2018 - 2020"
+      },
+      {
+        "degree": "TỐT NGHIỆP TRUNG HỌC PHỔ THÔNG - KHỐI KINH TẾ XÃ HỘI",
+        "institution": "Trường Trung học Raymond Queneau",
+        "year": "2015 - 2018",
+        "description": "Khối Kinh tế Xã hội, chuyên ngành Kinh tế nâng cao"
+      }
+    ],
+    "workExperience": [
+      {
+        "jobTitle": "THỰC TẬP SINH PHÁT TRIỂN WEB (LÀM VIỆC KẾT HỢP HỌC TẬP)",
+        "company": "Screenup, Rennes (35)",
+        "year": "Tháng 10 - Tháng 6 năm 2024",
+        "responsibilities": ["Thiết kế và tạo website", "Triển khai lên môi trường sản xuất", "Phát triển vận hành trên máy chủ"]
+      },
+      {
+        "jobTitle": "THỰC TẬP SINH PHÁT TRIỂN WEB",
+        "company": "Pangaia, Rennes (35)",
+        "year": "Tháng 4 - Tháng 6 năm 2023",
+        "responsibilities": ["Tạo ứng dụng với Vue.js / Docker / Laravel", "Thiết kế giao diện mẫu", "Làm việc nhóm sử dụng Git"]
+      },
+      {
+        "jobTitle": "NHÂN VIÊN NHẬP LIỆU",
+        "company": "Tessi, Rennes (35)",
+        "year": "Tháng 12 - Tháng 6 năm 2021 - 2022",
+        "responsibilities": ["Nhập liệu ngân hàng cho tài chính công", "Mở tài khoản ngân hàng", "Tham gia quy trình đảm bảo chất lượng"]
+      },
+      {
+        "jobTitle": "THỰC TẬP SINH KINH DOANH",
+        "company": "ACLP, Le Havre (76)",
+        "year": "Tháng 4 - Tháng 6 năm 2020",
+        "responsibilities": ["Phát triển kinh doanh", "Chiến dịch email marketing", "Tạo website trên Prestashop"]
+      },
+      {
+        "jobTitle": "DỰ ÁN ĐƯỢC HƯỚNG DẪN - TRƯỢT TUYẾT",
+        "company": "IUT cơ sở Caucriauville, Le Havre (76)",
+        "year": "2019 - 2020",
+        "responsibilities": ["Hoạt động kinh doanh gây quỹ cho dự án", "Tổ chức chuyến đi trượt tuyết cho 130 người tham gia", "Đàm phán hợp đồng cho năm tiếp theo"]
+      },
+      {
+        "jobTitle": "THỰC TẬP SINH SỰ KIỆN",
+        "company": "IUT cơ sở Caucriauville, Le Havre (76)",
+        "year": "Tháng 4 năm 2019",
+        "responsibilities": ["Tạo brochure giới thiệu", "Tìm kiếm nhà hàng đối tác", "Đón tiếp và hỗ trợ người tham gia"]
+      }
+    ]
+  }
+}

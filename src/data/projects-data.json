@@ -1,0 +1,107 @@
+{
+  "categories": [
+    {
+      "name": {
+        "en": "Websites",
+        "fr": "Sites web",
+        "vi": "Trang web"
+      },
+      "projects": [
+        {
+          "name": "Logma Production",
+          "icon": "projects/folder-logma-icon.webp",
+          "title": {
+            "en": "Logma Production - Showcase website",
+            "fr": "Logma Production - Site vitrine",
+            "vi": "Logma Production - Website giới thiệu"
+          },
+          "date": {
+            "en": "2023 - 2 months",
+            "fr": "2023 - 2 mois",
+            "vi": "2023 - 2 tháng"
+          },
+          "componentName": "LogmaContent",
+          "isFocus": false,
+          "isActive": false
+        },
+        {
+          "name": "Pangaia",
+          "icon": "projects/folder-pangaia-icon.webp",
+          "title": {
+            "en": "Pangaia - Web Application",
+            "fr": "Pangaia - Application web",
+            "vi": "Pangaia - Ứng dụng web"
+          },
+          "date": {
+            "en": "2023 - Current",
+            "fr": "2023 - Actuel",
+            "vi": "2023 - Hiện tại"
+          },
+          "componentName": "PangaiaContent",
+          "isFocus": false,
+          "isActive": false
+        },
+        {
+          "name": "Clench",
+          "icon": "projects/folder-clench-icon.webp",
+          "title": {
+            "en": "Clench - Web Application",
+            "fr": "Clench - Application web",
+            "vi": "Clench - Ứng dụng web"
+          },
+          "date": {
+            "en": "2024",
+            "fr": "2024",
+            "vi": "2024"
+          },
+          "componentName": "ClenchContent",
+          "isFocus": false,
+          "isActive": false
+        },
+        {
+          "name": "EMC2 (ScreenUp)",
+          "icon": "projects/folder-emc2-icon.webp",
+          "title": {
+            "en": "L'EMC2 - Wordpress website (ScreenUp)",
+            "fr": "L'EMC2 - Site Wordpress (ScreenUp)",
+            "vi": "L'EMC2 - Website Wordpress (ScreenUp)"
+          },
+          "date": {
+            "en": "2024 - 1 month",
+            "fr": "2024 - 1 mois",
+            "vi": "2024 - 1 tháng"
+          },
+          "componentName": "Emc2Content",
+          "isFocus": false,
+          "isActive": false
+        }
+      ]
+    },
+    {
+      "name": {
+        "en": "Servers",
+        "fr": "Serveurs",
+        "vi": "Máy chủ"
+      },
+      "projects": [
+        {
+          "name": "Homeserver",
+          "icon": "projects/homeserver-icon.webp",
+          "title": {
+            "en": "Application server & NAS",
+            "fr": "Serveur d'application & stockage NAS",
+            "vi": "Máy chủ ứng dụng & NAS"
+          },
+          "date": {
+            "en": "2023 - Current",
+            "fr": "2023 - Actuel",
+            "vi": "2023 - Hiện tại"
+          },
+          "componentName": "HomeserverContent",
+          "isFocus": false,
+          "isActive": false
+        }
+      ]
+    }
+  ]
+}
