@@ -10,28 +10,28 @@ const router = createRouter({
       name: 'home',
       component: Loader,
       meta: {
-        title: 'Portfolio | Thysorp - Développeur Web',
+        title: 'Portfolio | Paul Jaguin - Développeur Web',
         metaTags: [
           {
             rel: 'canonical',
-            href: 'https://thysorp.id.vn'
+            href: 'https://pauljaguin.com'
           },
           {
             name: 'title',
-            content: 'Portfolio | Thysorp - Développeur Web'
+            content: 'Portfolio | Paul Jaguin - Développeur Web'
           },
           {
             name: 'description',
             content:
-              "Découvrez le portfolio de Thysorp, développeur web full stack passionné, Création de sites et applications web et mobiles avec JS, PHP, SQL et leurs frameworks, ainsi qu'en DevOps."
+              "Découvrez le portfolio de Paul Jaguin, développeur web full stack passionné, Création de sites et applications web et mobiles avec JS, PHP, SQL et leurs frameworks, ainsi qu'en DevOps."
           },
           {
             name: 'keywords',
-            content: 'portfolio, thysorp, développeur web, full stack, sites web, applications web, applications mobiles, JS, PHP, SQL, ORM, frameworks, DevOps'
+            content: 'portfolio, paul jaguin, développeur web, full stack, sites web, applications web, applications mobiles, JS, PHP, SQL, ORM, frameworks, DevOps'
           },
           {
             name: 'author',
-            content: 'Thysorp'
+            content: 'Paul Jaguin'
           },
           {
             name: 'robots',
@@ -51,11 +51,11 @@ const router = createRouter({
           },
           {
             name: 'apple-mobile-web-app-title',
-            content: 'Portfolio | Thisorp - Développeur Web'
+            content: 'Portfolio | Paul Jaguin - Développeur Web'
           },
           {
             name: 'application-name',
-            content: 'Portfolio | Thisorp - Développeur Web'
+            content: 'Portfolio | Paul Jaguin - Développeur Web'
           },
           {
             name: 'twitter:card',
@@ -63,20 +63,20 @@ const router = createRouter({
           },
           {
             name: 'twitter:title',
-            content: 'Portfolio | Thisorp - Développeur Web'
+            content: 'Portfolio | Paul Jaguin - Développeur Web'
           },
           {
             name: 'twitter:description',
             content:
-              "Découvrez le portfolio de Thisorp, développeur web full stack passionné, Création de sites et applications web et mobiles avec JS, PHP, SQL et leurs frameworks, ainsi qu'en DevOps."
+              "Découvrez le portfolio de Paul Jaguin, développeur web full stack passionné, Création de sites et applications web et mobiles avec JS, PHP, SQL et leurs frameworks, ainsi qu'en DevOps."
           },
           {
             name: 'twitter:image',
-            content: 'https://thisorp.id.vn/img/logo-portfolio-black.webp'
+            content: 'https://pauljaguin.com/img/logo-portfolio-black.webp'
           },
           {
             name: 'twitter:image:alt',
-            content: 'Logo Portfolio Thisorp'
+            content: 'Logo Portfolio Paul Jaguin'
           },
           {
             property: 'og:type',
@@ -84,28 +84,28 @@ const router = createRouter({
           },
           {
             property: 'og:title',
-            content: 'Portfolio | Thisorp - Développeur Web'
+            content: 'Portfolio | Paul Jaguin - Développeur Web'
           },
           {
             property: 'og:description',
             content:
-              "Découvrez le portfolio de Thisorp, développeur web full stack passionné, Création de sites et applications web et mobiles avec JS, PHP, SQL et leurs frameworks, ainsi qu'en DevOps."
+              "Découvrez le portfolio de Paul Jaguin, développeur web full stack passionné, Création de sites et applications web et mobiles avec JS, PHP, SQL et leurs frameworks, ainsi qu'en DevOps."
           },
           {
             property: 'og:site_name',
-            content: 'Portfolio | Thisorp - Développeur Web'
+            content: 'Portfolio | Paul Jaguin - Développeur Web'
           },
           {
             property: 'og:url',
-            content: 'https://thisorp.id.vn'
+            content: 'https://pauljaguin.com'
           },
           {
             property: 'og:image',
-            content: 'https://thisorp.id.vn/img/logo-portfolio-black.webp'
+            content: 'https://pauljaguin.com/img/logo-portfolio-black.webp'
           },
           {
             property: 'og:image:alt',
-            content: 'Logo Portfolio Thysorp'
+            content: 'Logo Portfolio Paul Jaguin'
           },
           {
             property: 'og:locale',
@@ -123,28 +123,28 @@ const router = createRouter({
       name: 'Office',
       component: Office,
       meta: {
-        title: 'Bureau | Thisorp - Développeur Web',
+        title: 'Bureau | Paul Jaguin - Développeur Web',
         metaTags: [
           {
             rel: 'canonical',
-            href: 'https://thysorp.id.vn/office'
+            href: 'https://pauljaguin.com/office'
           },
           {
             name: 'title',
-            content: 'Bureau | Thisorp - Développeur Web'
+            content: 'Bureau | Paul Jaguin - Développeur Web'
           },
           {
             name: 'description',
             content:
-              "Découvrez le bureau de Thisorp, développeur web full stack passionné, Création de sites et applications web et mobiles avec JS, PHP, SQL et leurs frameworks, ainsi qu'en DevOps."
+              "Découvrez le bureau de Paul Jaguin, développeur web full stack passionné, Création de sites et applications web et mobiles avec JS, PHP, SQL et leurs frameworks, ainsi qu'en DevOps."
           },
           {
             name: 'keywords',
-            content: 'bureau, thisorp, développeur web, full stack, sites web, applications web, applications mobiles, JS, PHP, SQL, ORM, frameworks, DevOps'
+            content: 'bureau, paul jaguin, développeur web, full stack, sites web, applications web, applications mobiles, JS, PHP, SQL, ORM, frameworks, DevOps'
           },
           {
             name: 'author',
-            content: 'Thisorp'
+            content: 'Paul Jaguin'
           },
           {
             name: 'robots',
@@ -164,11 +164,11 @@ const router = createRouter({
           },
           {
             name: 'apple-mobile-web-app-title',
-            content: 'Bureau | Thisorp - Développeur Web'
+            content: 'Bureau | Paul Jaguin - Développeur Web'
           },
           {
             name: 'application-name',
-            content: 'Bureau | Thisorp - Développeur Web'
+            content: 'Bureau | Paul Jaguin - Développeur Web'
           },
           {
             name: 'twitter:card',
@@ -176,20 +176,20 @@ const router = createRouter({
           },
           {
             name: 'twitter:title',
-            content: 'Bureau | Thisorp - Développeur Web'
+            content: 'Bureau | Paul Jaguin - Développeur Web'
           },
           {
             name: 'twitter:description',
             content:
-              "Découvrez le bureau de Thisorp, développeur web full stack passionné, Création de sites et applications web et mobiles avec JS, PHP, SQL et leurs frameworks, ainsi qu'en DevOps."
+              "Découvrez le bureau de Paul Jaguin, développeur web full stack passionné, Création de sites et applications web et mobiles avec JS, PHP, SQL et leurs frameworks, ainsi qu'en DevOps."
           },
           {
             name: 'twitter:image',
-            content: 'https://thisorp.id.vn/img/logo-portfolio-black.webp'
+            content: 'https://pauljaguin.com/img/logo-portfolio-black.webp'
           },
           {
             name: 'twitter:image:alt',
-            content: 'Logo Portfolio Thisorp'
+            content: 'Logo Portfolio Paul Jaguin'
           },
           {
             name: 'og:type',
@@ -197,28 +197,28 @@ const router = createRouter({
           },
           {
             name: 'og:title',
-            content: 'Bureau | Thisorp - Développeur Web'
+            content: 'Bureau | Paul Jaguin - Développeur Web'
           },
           {
             name: 'og:description',
             content:
-              "Découvrez le bureau de Thisorp, développeur web full stack passionné, Création de sites et applications web et mobiles avec JS, PHP, SQL et leurs frameworks, ainsi qu'en DevOps."
+              "Découvrez le bureau de Paul Jaguin, développeur web full stack passionné, Création de sites et applications web et mobiles avec JS, PHP, SQL et leurs frameworks, ainsi qu'en DevOps."
           },
           {
             name: 'og:site_name',
-            content: 'Bureau | Thisorp - Développeur Web'
+            content: 'Bureau | Paul Jaguin - Développeur Web'
           },
           {
             name: 'og:url',
-            content: 'https://thisorp.id.vn/office'
+            content: 'https://pauljaguin.com/office'
           },
           {
             name: 'og:image',
-            content: 'https://thisorp.id.vn/img/logo-portfolio-black.webp'
+            content: 'https://pauljaguin.com/img/logo-portfolio-black.webp'
           },
           {
             name: 'og:image:alt',
-            content: 'Logo Portfolio Thisorp'
+            content: 'Logo Portfolio Paul Jaguin'
           },
           {
             name: 'og:locale',
