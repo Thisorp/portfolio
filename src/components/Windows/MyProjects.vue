@@ -159,7 +159,7 @@ window.addEventListener('click', (e) => {
             class="flex items-center px-4 pb-2 gap-2.5 cursor-pointer project-card"
             :class="{ active: project.isFocus }"
           >
-            <img :src="'/img/icons/' + project.icon" alt="project" class="w-10 h-10" :style="{ opacity: project.isFocus ? 0.5 : 1 }" />
+            <img :src="'/portfolio/img/icons/' + project.icon" alt="project" class="w-10 h-10" :style="{ opacity: project.isFocus ? 0.5 : 1 }" />
             <p
               class="text-xs font-tahoma font-medium"
               :style="{

@@ -7,7 +7,7 @@
         "items": [
           {
             "type": "button",
-            "icon": "/img/icons/windows-header-tools/folder-opening-icon.webp",
+            "icon": "/portfolio/img/icons/windows-header-tools/folder-opening-icon.webp",
             "alt": "common.folder",
             "class": "rounded-sm border hover:border-gray-300 hover:shadow-header-tools flex items-center h-8 px-1 pr-1 md:px-0.5 mr-0.5 ml-0.5"
           }
@@ -22,7 +22,7 @@
         "items": [
           {
             "type": "button",
-            "icon": "/img/icons/windows-header-tools/magnifier-icon.webp",
+            "icon": "/portfolio/img/icons/windows-header-tools/magnifier-icon.webp",
             "iconClass": "w-5 h-5 flex-shrink-0",
             "alt": "common.search",
             "class": "rounded-sm border hover:border-gray-300 hover:shadow-header-tools flex items-center h-8 px-1 md:px-0.5 ml-0.5",
@@ -30,7 +30,7 @@
           },
           {
             "type": "button",
-            "icon": "/img/icons/windows-header-tools/folder-open-icon.webp",
+            "icon": "/portfolio/img/icons/windows-header-tools/folder-open-icon.webp",
             "alt": "common.files",
             "class": "rounded-sm border hover:border-gray-300 hover:shadow-header-tools flex items-center h-8 px-0.5 mr-0.5",
             "text": "common.files"
@@ -46,7 +46,7 @@
         "items": [
           {
             "type": "button",
-            "icon": "/img/icons/projects/projects-icon-sm.webp",
+            "icon": "/portfolio/img/icons/projects/projects-icon-sm.webp",
             "alt": "common.projects",
             "class": "rounded-sm border hover:border-gray-300 hover:shadow-header-tools flex items-center h-8 ml-1 px-0.5",
             "hasArrow": true
@@ -61,7 +61,7 @@
         "items": [
           {
             "type": "button",
-            "icon": "/img/icons/windows-header-tools/folder-opening-icon.webp",
+            "icon": "/portfolio/img/icons/windows-header-tools/folder-opening-icon.webp",
             "alt": "common.folder",
             "class": "rounded-sm border hover:border-gray-300 hover:shadow-header-tools flex items-center h-8 px-1 pr-1 md:px-0.5 mr-0.5 ml-0.5"
           }
@@ -76,7 +76,7 @@
         "items": [
           {
             "type": "button",
-            "icon": "/img/icons/windows-header-tools/magnifier-icon.webp",
+            "icon": "/portfolio/img/icons/windows-header-tools/magnifier-icon.webp",
             "iconClass": "w-5 h-5 flex-shrink-0",
             "alt": "common.search",
             "class": "rounded-sm border hover:border-gray-300 hover:shadow-header-tools flex items-center h-8 px-1 md:px-0.5 ml-0.5",
@@ -84,7 +84,7 @@
           },
           {
             "type": "button",
-            "icon": "/img/icons/windows-header-tools/open-folders.webp",
+            "icon": "/portfolio/img/icons/windows-header-tools/open-folders.webp",
             "alt": "common.folder",
             "class": "rounded-sm border hover:border-gray-300 hover:shadow-header-tools flex items-center h-8 px-0.5 mr-0.5",
             "text": "common.folder"
@@ -100,7 +100,7 @@
         "items": [
           {
             "type": "button",
-            "icon": "/img/icons/windows-header-tools/projects.webp",
+            "icon": "/portfolio/img/icons/windows-header-tools/projects.webp",
             "alt": "common.projects",
             "class": "rounded-sm border hover:border-gray-300 hover:shadow-header-tools flex items-center h-8 px-1 ml-0.5",
             "hasArrow": true
@@ -115,7 +115,7 @@
         "items": [
           {
             "type": "button",
-            "icon": "/img/icons/windows-header-tools/folder-opening-icon.webp",
+            "icon": "/portfolio/img/icons/windows-header-tools/folder-opening-icon.webp",
             "alt": "common.folder",
             "class": "rounded-sm border hover:border-gray-300 hover:shadow-header-tools flex items-center h-8 px-1 pr-1 md:px-0.5 mr-0.5 ml-0.5"
           }
@@ -130,7 +130,7 @@
         "items": [
           {
             "type": "button",
-            "icon": "/img/icons/windows-header-tools/magnifier-icon.webp",
+            "icon": "/portfolio/img/icons/windows-header-tools/magnifier-icon.webp",
             "iconClass": "w-5 h-5 flex-shrink-0",
             "alt": "common.search",
             "class": "rounded-sm border hover:border-gray-300 hover:shadow-header-tools flex items-center h-8 px-1 md:px-0.5 ml-0.5",
@@ -138,7 +138,7 @@
           },
           {
             "type": "button",
-            "icon": "/img/icons/windows-header-tools/open-folders.webp",
+            "icon": "/portfolio/img/icons/windows-header-tools/open-folders.webp",
             "alt": "common.folder",
             "class": "rounded-sm border hover:border-gray-300 hover:shadow-header-tools flex items-center h-8 px-0.5 mr-0.5",
             "text": "common.folder"
@@ -154,7 +154,7 @@
         "items": [
           {
             "type": "button",
-            "icon": "/img/icons/windows-header-tools/projects.webp",
+            "icon": "/portfolio/img/icons/windows-header-tools/projects.webp",
             "alt": "common.projects",
             "class": "rounded-sm border hover:border-gray-300 hover:shadow-header-tools flex items-center h-8 px-1 ml-0.5",
             "hasArrow": true
