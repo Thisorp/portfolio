@@ -72,7 +72,7 @@ const router = createRouter({
           },
           {
             name: 'twitter:image',
-            content: 'https://thisorp.id.vn/portfolio/img/logo-portfolio-black.webp'
+            content: 'https://thisorp.id.vn/img/logo-portfolio-black.webp'
           },
           {
             name: 'twitter:image:alt',
@@ -101,7 +101,7 @@ const router = createRouter({
           },
           {
             property: 'og:image',
-            content: 'https://thisorp.id.vn/portfolio/img/logo-portfolio-black.webp'
+            content: 'https://thisorp.id.vn/img/logo-portfolio-black.webp'
           },
           {
             property: 'og:image:alt',
@@ -185,7 +185,7 @@ const router = createRouter({
           },
           {
             name: 'twitter:image',
-            content: 'https://thisorp.id.vn/portfolio/img/logo-portfolio-black.webp'
+            content: 'https://thisorp.id.vn/img/logo-portfolio-black.webp'
           },
           {
             name: 'twitter:image:alt',
@@ -214,7 +214,7 @@ const router = createRouter({
           },
           {
             name: 'og:image',
-            content: 'https://thisorp.id.vn/portfolio/img/logo-portfolio-black.webp'
+            content: 'https://thisorp.id.vn/img/logo-portfolio-black.webp'
           },
           {
             name: 'og:image:alt',

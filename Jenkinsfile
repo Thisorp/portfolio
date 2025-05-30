@@ -10,7 +10,7 @@ pipeline {
     stages {
         stage('SCM') {
             steps {
-                git url: 'https://github.com/Thisorp/portfolio.git', branch: 'main'
+                git url: 'https://github.com/UnMugViolet/portfolio.git', branch: 'main'
             }
         }
         stage('SonarQube analysis') {
@@ -46,7 +46,7 @@ pipeline {
                             transfers: [
                                 sshTransfer(
                                     sourceFiles: 'dist/**', 
-                                    remoteDirectory: '/domains/thisorp.id.vn/public_html',
+                                    remoteDirectory: '/domains/pauljaguin.com/public_html',
                                     removePrefix: 'dist', 
                                     cleanRemote: true, 
                                     makeEmptyDirs: true, 

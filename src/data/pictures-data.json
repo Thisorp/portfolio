@@ -3,42 +3,42 @@
     {
       "id": 1,
       "title": "colette.jpeg",
-      "url": "/portfolio/img/icons/pictures/carroussel/colette.webp"
+      "url": "/img/icons/pictures/carroussel/colette.webp"
     },
     {
       "id": 2,
       "title": "paris.png",
-      "url": "/portfolio/img/icons/pictures/carroussel/paris.webp"
+      "url": "/img/icons/pictures/carroussel/paris.webp"
     },
     {
       "id": 3,
       "title": "rennes.jpg",
-      "url": "/portfolio/img/icons/pictures/carroussel/rennes.webp"
+      "url": "/img/icons/pictures/carroussel/rennes.webp"
     },
     {
       "id": 4,
       "title": "lorient.jpg",
-      "url": "/portfolio/img/icons/pictures/carroussel/lorient.webp"
+      "url": "/img/icons/pictures/carroussel/lorient.webp"
     },
     {
       "id": 5,
       "title": "berlin.png",
-      "url": "/portfolio/img/icons/pictures/carroussel/berlin.webp"
+      "url": "/img/icons/pictures/carroussel/berlin.webp"
     },
     {
       "id": 6,
       "title": "gdansk.jpg",
-      "url": "/portfolio/img/icons/pictures/carroussel/gdansk.webp"
+      "url": "/img/icons/pictures/carroussel/gdansk.webp"
     },
     {
       "id": 7,
       "title": "poznan.jpeg",
-      "url": "/portfolio/img/icons/pictures/carroussel/poznan.webp"
+      "url": "/img/icons/pictures/carroussel/poznan.webp"
     },
     {
       "id": 8,
       "title": "warszawa.gif",
-      "url": "/portfolio/img/icons/pictures/carroussel/warszawa.webp"
+      "url": "/img/icons/pictures/carroussel/warszawa.webp"
     }
   ]
 }

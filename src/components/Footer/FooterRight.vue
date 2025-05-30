@@ -73,7 +73,7 @@ onUnmounted(() => {
 })
 
 const volumeIconSrc = computed(() => {
-  return volume.value === 0 ? '/portfolio/img/icons/mute-icon-sm.webp' : '/portfolio/img/icons/volume-icon-sm.webp'
+  return volume.value === 0 ? '/img/icons/mute-icon-sm.webp' : '/img/icons/volume-icon-sm.webp'
 })
 
 // Function to toggle the language modal
@@ -85,7 +85,7 @@ const toggleLanguageModal = () => {
 }
 
 const flagSrc = computed(() => {
-  return `/portfolio/img/icons/langs/flag-${currentLocale.value}.webp`
+  return `/img/icons/langs/flag-${currentLocale.value}.webp`
 })
 </script>
 
@@ -100,7 +100,7 @@ const flagSrc = computed(() => {
         @click="toggleLanguageModal"
         />
     </div>
-    <img class="w-4 h-4 cursor-pointer" src="/portfolio/img/icons/full-screen-icon-sm.webp" alt="Mode plein écran" :title="originalTitle" @click="enterFullScreen" />
+    <img class="w-4 h-4 cursor-pointer" src="/img/icons/full-screen-icon-sm.webp" alt="Mode plein écran" :title="originalTitle" @click="enterFullScreen" />
     <img class="w-4 h-4 mt-px cursor-pointer" :src="volumeIconSrc" alt="Gestion du volume" title="Gestion du volume" @click.stop="toggleMusicModal" />
     <MusicVolumeModal v-if="isVolumeSettingsDisplayed" ref="musicModalRef" />
     <LanguageModal v-if="isLanguageSettingsDisplayed" :currentLocale="currentLocale" />

@@ -16,7 +16,7 @@ const adjustVolume = () => {
 <template>
   <section class="absolute bottom-10 right-5 md:right-9 w-24 rounded-t-md overflow-hidden bg-window-blue-deactivated p-0.5">
     <div class="absolute top-0 left-0 h-7 w-full z-10 flex items-center px-1.5 bg-header-window-active">
-      <img src="/portfolio/img/icons/volume-icon-sm.webp" :alt="$t('common.icon') + ' volume'" class="w-4 h-4 mr-1" />
+      <img src="/img/icons/volume-icon-sm.webp" :alt="$t('common.icon') + ' volume'" class="w-4 h-4 mr-1" />
       <h4 class="text-header-window text-header-shadow truncate">{{ $t('modale.control') }}</h4>
     </div>
     <div class="bg-light-yellow h-52 mt-3 pr-1">
@@ -51,7 +51,7 @@ const adjustVolume = () => {
 
 .slider::-webkit-slider-thumb {
   -webkit-appearance: none;
-  background: url('/portfolio/img/cursors/volume-icon.webp') center/contain no-repeat;
+  background: url('/img/cursors/volume-icon.webp') center/contain no-repeat;
   outline: none;
   padding: 0;
   height: 9px;
@@ -59,7 +59,7 @@ const adjustVolume = () => {
 }
 
 .slider::-moz-range-thumb {
-  background: url('/portfolio/img/cursors/volume-icon.webp') center/contain no-repeat;
+  background: url('/img/cursors/volume-icon.webp') center/contain no-repeat;
   outline: none;
   padding: 0;
   border-radius: 0;
