@@ -102,7 +102,7 @@ watch(currentLocale, (newLocale) => {
 })
 
 const flagSrc = computed(() => {
-  return `/portfolio/img/icons/langs/flag-${currentLocale.value}.webp`
+  return `/img/icons/langs/flag-${currentLocale.value}.webp`
 })
 
 const toggleDropdown = () => {

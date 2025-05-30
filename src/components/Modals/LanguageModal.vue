@@ -17,7 +17,7 @@ const props = defineProps({
 
 // Function to get the flag source based on the locale
 const getFlagSrc = (locale) => {
-  return `/portfolio/img/icons/langs/flag-${locale}.webp`
+  return `/img/icons/langs/flag-${locale}.webp`
 }
 
 // Compute the opposite locale
