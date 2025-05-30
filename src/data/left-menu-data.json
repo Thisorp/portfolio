@@ -5,8 +5,7 @@
         "id": 1,
         "title": {
           "en": "System Tasks",
-          "fr": "Tâches système",
-          "vi": "Tác vụ hệ thống"
+          "fr": "Tâches système"
         },
         "bgColor": "bg-window-menu-card",
         "iconSrc": "/img/icons/side-menu/top-icon-card-window.webp",
@@ -16,8 +15,7 @@
             "id": 1,
             "subtitle": {
               "en": "View system information",
-              "fr": "Informations système",
-              "vi": "Xem thông tin hệ thống"
+              "fr": "Informations système"
             },
             "iconUrl": "/img/icons/side-menu/info-system-icon.webp"
           },
@@ -25,8 +23,7 @@
             "id": 2,
             "subtitle": {
               "en": "Add or remove programs",
-              "fr": "Gestion des programmes",
-              "vi": "Thêm hoặc gỡ bỏ chương trình"
+              "fr": "Gestion des programmes"
             },
             "iconUrl": "/img/icons/side-menu/programs-icon.webp"
           },
@@ -34,8 +31,7 @@
             "id": 3,
             "subtitle": {
               "en": "Change a settings",
-              "fr": "Changer les paramètres",
-              "vi": "Thay đổi cài đặt"
+              "fr": "Changer les paramètres"
             },
             "iconUrl": "/img/icons/side-menu/settings-icon.webp"
           }
@@ -45,8 +41,7 @@
         "id": 2,
         "title": {
           "en": "Other",
-          "fr": "Autres",
-          "vi": "Khác"
+          "fr": "Autres"
         },
         "bgColor": "bg-window-menu-card",
         "iconSrc": "/img/icons/side-menu/top-icon-card-window.webp",
@@ -56,8 +51,7 @@
             "id": 1,
             "subtitle": {
               "en": "My network places",
-              "fr": "Mes emplacements réseau",
-              "vi": "Vị trí mạng của tôi"
+              "fr": "Mes emplacements réseau"
             },
             "iconUrl": "/img/icons/side-menu/networking-icon.webp",
             "url": ""
@@ -66,8 +60,7 @@
             "id": 2,
             "subtitle": {
               "en": "My documents",
-              "fr": "Mes documents",
-              "vi": "Tài liệu của tôi"
+              "fr": "Mes documents"
             },
             "iconUrl": "/img/icons/side-menu/documents-icon.webp",
             "url": ""
@@ -76,8 +69,7 @@
             "id": 3,
             "subtitle": {
               "en": "Shared documents",
-              "fr": "Documents partagés",
-              "vi": "Tài liệu chia sẻ"
+              "fr": "Documents partagés"
             },
             "iconUrl": "/img/icons/side-menu/shared-documents-icon.webp",
             "url": ""
@@ -86,8 +78,7 @@
             "id": 4,
             "subtitle": {
               "en": "Control panel",
-              "fr": "Panneau de configuration",
-              "vi": "Bảng điều khiển"
+              "fr": "Panneau de configuration"
             },
             "iconUrl": "/img/icons/side-menu/settings-icon.webp",
             "url": ""
@@ -98,8 +89,7 @@
         "id": 3,
         "title": {
           "en": "Details",
-          "fr": "Détails",
-          "vi": "Chi tiết"
+          "fr": "Détails"
         },
         "bgColor": "bg-window-menu-card",
         "iconSrc": "/img/icons/side-menu/top-icon-card-window.webp",
@@ -112,7 +102,7 @@
               "fr": "Mon Github"
             },
             "iconUrl": "/img/icons/side-menu/github-icon.webp",
-            "url": "https://github.com/Thisorp"
+            "url": "https://github.com/UnMugViolet"
           }
         ]
       }
@@ -122,8 +112,7 @@
         "id": 1,
         "title": {
           "en": "Pictures Tasks",
-          "fr": "Tâches photo",
-          "vi": "Tác vụ hình ảnh"
+          "fr": "Tâches photo"
         },
         "iconHeader": "/img/icons/side-menu/image.webp",
         "bgImage": "/img/icons/pictures/bg-picture-menu.webp",
@@ -135,8 +124,7 @@
             "id": 1,
             "subtitle": {
               "en": "View as a slide show",
-              "fr": "Voir en diaporama",
-              "vi": "Xem dưới dạng trình chiếu"
+              "fr": "Voir en diaporama"
             },
             "iconUrl": "/img/icons/side-menu/screen-icon.webp"
           },
@@ -144,8 +132,7 @@
             "id": 2,
             "subtitle": {
               "en": "Order prints online",
-              "fr": "Commander des tirages",
-              "vi": "Đặt in trực tuyến"
+              "fr": "Commander des tirages"
             },
             "iconUrl": "/img/icons/side-menu/picture-online-icon.webp"
           },
@@ -153,8 +140,7 @@
             "id": 3,
             "subtitle": {
               "en": "Print pictures",
-              "fr": "Imprimer des images",
-              "vi": "In hình ảnh"
+              "fr": "Imprimer des images"
             },
             "iconUrl": "/img/icons/side-menu/print-picture-icon.webp"
           },
@@ -162,8 +148,7 @@
             "id": 4,
             "subtitle": {
               "en": "Shop for pictures online",
-              "fr": "Acheter des images en ligne",
-              "vi": "Mua ảnh trực tuyến"
+              "fr": "Acheter des images en ligne"
             },
             "iconUrl": "/img/icons/side-menu/picture-online-icon.webp"
           }
@@ -173,8 +158,7 @@
         "id": 2,
         "title": {
           "en": "File and folder tasks",
-          "fr": "Fichier et dossier",
-          "vi": "Tác vụ tệp và thư mục"
+          "fr": "Fichier et dossier"
         },
         "bgColor": "bg-window-menu-card",
         "iconSrc": "/img/icons/side-menu/top-icon-card-window.webp",
@@ -184,8 +168,7 @@
             "id": 1,
             "subtitle": {
               "en": "Make a new folder",
-              "fr": "Créer un nouveau dossier",
-              "vi": "Tạo thư mục mới"
+              "fr": "Créer un nouveau dossier"
             },
             "iconUrl": "/img/icons/side-menu/new-folder-icon.webp"
           },
@@ -193,8 +176,7 @@
             "id": 2,
             "subtitle": {
               "en": "Publish this folder to the web",
-              "fr": "Publier ce dossier sur le web",
-              "vi": "Đăng thư mục này lên web"
+              "fr": "Publier ce dossier sur le web"
             },
             "iconUrl": "/img/icons/side-menu/publish-web-icon.webp"
           },
@@ -202,8 +184,7 @@
             "id": 3,
             "subtitle": {
               "en": "Share this folder",
-              "fr": "Partager ce dossier",
-              "vi": "Chia sẻ thư mục này"
+              "fr": "Partager ce dossier"
             },
             "iconUrl": "/img/icons/side-menu/share-folder-icon.webp"
           }
@@ -213,8 +194,7 @@
         "id": 3,
         "title": {
           "en": "Other places",
-          "fr": "Autres localisations",
-          "vi": "Vị trí khác"
+          "fr": "Autres localisations"
         },
         "bgColor": "bg-window-menu-card",
         "iconSrc": "/img/icons/side-menu/top-icon-card-window.webp",
@@ -224,8 +204,7 @@
             "id": 1,
             "subtitle": {
               "en": "Shared pictures",
-              "fr": "Photos partagées",
-              "vi": "Ảnh chia sẻ"
+              "fr": "Photos partagées"
             },
             "iconUrl": "/img/icons/side-menu/folder-image-icon.webp"
           },
@@ -233,8 +212,7 @@
             "id": 2,
             "subtitle": {
               "en": "My pictures",
-              "fr": "Mes photos",
-              "vi": "Ảnh của tôi"
+              "fr": "Mes photos"
             },
             "iconUrl": "/img/icons/side-menu/folder-image-icon.webp"
           },
@@ -242,8 +220,7 @@
             "id": 3,
             "subtitle": {
               "en": "My computer",
-              "fr": "Mon ordinateur",
-              "vi": "Máy tính của tôi"
+              "fr": "Mon ordinateur"
             },
             "iconUrl": "/img/icons/side-menu/computer-icon.webp"
           },
@@ -251,8 +228,7 @@
             "id": 4,
             "subtitle": {
               "en": "My network places",
-              "fr": "Mes emplacements réseau",
-              "vi": "Vị trí mạng của tôi"
+              "fr": "Mes emplacements réseau"
             },
             "iconUrl": "/img/icons/side-menu/networking-icon.webp"
           }
@@ -262,8 +238,7 @@
         "id": 4,
         "title": {
           "en": "Details",
-          "fr": "Détails",
-          "vi": "Chi tiết"
+          "fr": "Détails"
         },
         "bgColor": "bg-window-menu-card",
         "iconSrc": "/img/icons/side-menu/top-icon-card-window.webp",
@@ -276,8 +251,7 @@
         "id": 1,
         "title": {
           "en": "File and folder tasks",
-          "fr": "Fichier et dossier",
-          "vi": "Tác vụ tệp và thư mục"
+          "fr": "Fichier et dossier"
         },
         "bgColor": "bg-window-menu-card",
         "iconSrc": "/img/icons/side-menu/top-icon-card-window.webp",
@@ -287,8 +261,7 @@
             "id": 1,
             "subtitle": {
               "en": "Make a new folder",
-              "fr": "Créer un nouveau dossier",
-              "vi": "Tạo thư mục mới"
+              "fr": "Créer un nouveau dossier"
             },
             "iconUrl": "/img/icons/side-menu/new-folder-icon.webp"
           },
@@ -296,8 +269,7 @@
             "id": 2,
             "subtitle": {
               "en": "Publish this folder to the web",
-              "fr": "Publier ce dossier sur le web",
-              "vi": "Đăng thư mục này lên web"
+              "fr": "Publier ce dossier sur le web"
             },
             "iconUrl": "/img/icons/side-menu/publish-web-icon.webp"
           },
@@ -305,8 +277,7 @@
             "id": 3,
             "subtitle": {
               "en": "Share this folder",
-              "fr": "Partager ce dossier",
-              "vi": "Chia sẻ thư mục này"
+              "fr": "Partager ce dossier"
             },
             "iconUrl": "/img/icons/side-menu/share-folder-icon.webp"
           }
@@ -316,8 +287,7 @@
         "id": 2,
         "title": {
           "en": "Other places",
-          "fr": "Autres localisations",
-          "vi": "Vị trí khác"
+          "fr": "Autres localisations"
         },
         "bgColor": "bg-window-menu-card",
         "iconSrc": "/img/icons/side-menu/top-icon-card-window.webp",
@@ -327,8 +297,7 @@
             "id": 1,
             "subtitle": {
               "en": "Desktop",
-              "fr": "Bureau",
-              "vi": "Màn hình chính"
+              "fr": "Bureau"
             },
             "iconUrl": "/img/icons/side-menu/board-icon.webp"
           },
@@ -336,8 +305,7 @@
             "id": 2,
             "subtitle": {
               "en": "Shared documents",
-              "fr": "Dossiers partagés",
-              "vi": "Tài liệu chia sẻ"
+              "fr": "Dossiers partagés"
             },
             "iconUrl": "/img/icons/side-menu/shared-documents-icon.webp"
           },
@@ -345,8 +313,7 @@
             "id": 3,
             "subtitle": {
               "en": "My computer",
-              "fr": "Mon ordinateur",
-              "vi": "Máy tính của tôi"
+              "fr": "Mon ordinateur"
             },
             "iconUrl": "/img/icons/side-menu/computer-icon.webp"
           },
@@ -354,8 +321,7 @@
             "id": 4,
             "subtitle": {
               "en": "My network places",
-              "fr": "Mes emplacements réseau",
-              "vi": "Vị trí mạng của tôi"
+              "fr": "Mes emplacements réseau"
             },
             "iconUrl": "/img/icons/side-menu/networking-icon.webp"
           }
@@ -365,8 +331,7 @@
         "id": 3,
         "title": {
           "en": "Details",
-          "fr": "Détails",
-          "vi": "Chi tiết"
+          "fr": "Détails"
         },
         "bgColor": "bg-window-menu-card",
         "iconSrc": "/img/icons/side-menu/top-icon-card-window.webp",

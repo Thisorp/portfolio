@@ -47,8 +47,8 @@ const experienceData = computed(() => {
   </div>
   <a
     rel="noopener"
-    :href="'pdf/CV_TranChiCong_Unity_Intern.pdf'"
-    download="CV_TranChiCong_Unity_Intern.pdf"
+    :href="'pdf/CV_paul_jaguin_' + localeStore.currentLocale + '.pdf'"
+    :download="'CV_paul_jaguin_' + localeStore.currentLocale + '.pdf'"
     class="absolute bottom-2 right-1 md:right-4 h-6 text-xxs border border-twilight-blue bg-button-submit rounded-sm leading-loose px-3 hover:shadow-button-submit-hover cursor-pointer active:bg-button-clicked"
   >
     {{ $t('buttons.downloadCV') }}

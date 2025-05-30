@@ -3,8 +3,7 @@
     {
       "name": {
         "en": "Websites",
-        "fr": "Sites web",
-        "vi": "Trang web"
+        "fr": "Sites web"
       },
       "projects": [
         {
@@ -12,13 +11,11 @@
           "icon": "projects/folder-logma-icon.webp",
           "title": {
             "en": "Logma Production - Showcase website",
-            "fr": "Logma Production - Site vitrine",
-            "vi": "Logma Production - Website giới thiệu"
+            "fr": "Logma Production - Site vitrine"
           },
           "date": {
             "en": "2023 - 2 months",
-            "fr": "2023 - 2 mois",
-            "vi": "2023 - 2 tháng"
+            "fr": "2023 - 2 mois"
           },
           "componentName": "LogmaContent",
           "isFocus": false,
@@ -29,13 +26,11 @@
           "icon": "projects/folder-pangaia-icon.webp",
           "title": {
             "en": "Pangaia - Web Application",
-            "fr": "Pangaia - Application web",
-            "vi": "Pangaia - Ứng dụng web"
+            "fr": "Pangaia - Application web"
           },
           "date": {
             "en": "2023 - Current",
-            "fr": "2023 - Actuel",
-            "vi": "2023 - Hiện tại"
+            "fr": "2023 - Actuel"
           },
           "componentName": "PangaiaContent",
           "isFocus": false,
@@ -46,13 +41,11 @@
           "icon": "projects/folder-clench-icon.webp",
           "title": {
             "en": "Clench - Web Application",
-            "fr": "Clench - Application web",
-            "vi": "Clench - Ứng dụng web"
+            "fr": "Clench - Application web"
           },
           "date": {
             "en": "2024",
-            "fr": "2024",
-            "vi": "2024"
+            "fr": "2024"
           },
           "componentName": "ClenchContent",
           "isFocus": false,
@@ -63,13 +56,11 @@
           "icon": "projects/folder-emc2-icon.webp",
           "title": {
             "en": "L'EMC2 - Wordpress website (ScreenUp)",
-            "fr": "L'EMC2 - Site Wordpress (ScreenUp)",
-            "vi": "L'EMC2 - Website Wordpress (ScreenUp)"
+            "fr": "L'EMC2 - Site Wordpress (ScreenUp)"
           },
           "date": {
             "en": "2024 - 1 month",
-            "fr": "2024 - 1 mois",
-            "vi": "2024 - 1 tháng"
+            "fr": "2024 - 1 mois"
           },
           "componentName": "Emc2Content",
           "isFocus": false,
@@ -80,8 +71,7 @@
     {
       "name": {
         "en": "Servers",
-        "fr": "Serveurs",
-        "vi": "Máy chủ"
+        "fr": "Serveurs"
       },
       "projects": [
         {
@@ -89,13 +79,11 @@
           "icon": "projects/homeserver-icon.webp",
           "title": {
             "en": "Application server & NAS",
-            "fr": "Serveur d'application & stockage NAS",
-            "vi": "Máy chủ ứng dụng & NAS"
+            "fr": "Serveur d'application & stockage NAS"
           },
           "date": {
             "en": "2023 - Current",
-            "fr": "2023 - Actuel",
-            "vi": "2023 - Hiện tại"
+            "fr": "2023 - Actuel"
           },
           "componentName": "HomeserverContent",
           "isFocus": false,
