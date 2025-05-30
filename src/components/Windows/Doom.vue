@@ -14,7 +14,7 @@ onMounted(() => {
     dosbox = new Dosbox({
       id: 'dosbox',
       onload: function (dosbox) {
-        dosbox.run('/game/DOOM-@evilution.zip', './DOOM/DOOM.EXE')
+        dosbox.run('/portfolio/game/DOOM-@evilution.zip', './DOOM/DOOM.EXE')
         isRunning.value = true
       },
       onrun: function (dosbox, app) {

@@ -9,7 +9,7 @@
       "en": "See all my projects",
       "fr": "Voir tous mes projets"
     },
-    "imgSrc": "/img/icons/projects/projects-icon-lg.webp",
+    "imgSrc": "/portfolio/img/icons/projects/projects-icon-lg.webp",
     "onDesktop": true,
     "resizable": true,
     "windowsHeaderLogo": true,
@@ -17,7 +17,7 @@
     "headerPosition": "left",
     "headerToolsId": "default",
     "menuHeaderItemsId": "default",
-    "iconSrc": "/img/icons/projects/projects-icon-sm.webp",
+    "iconSrc": "/portfolio/img/icons/projects/projects-icon-sm.webp",
     "initPositionX": 180,
     "initPositionY": 100,
     "initWidth": 660,
