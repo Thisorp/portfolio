@@ -85,7 +85,7 @@ const toggleLanguageModal = () => {
 }
 
 const flagSrc = computed(() => {
-  return `/img/icons/langs/flag-${currentLocale.value}.webp`
+  return `/portfolio/img/icons/langs/flag-${currentLocale.value}.webp`
 })
 </script>
 
