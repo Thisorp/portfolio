@@ -2,9 +2,9 @@
   "name": "portfolio",
   "version": "1.0.0",
   "private": false,
-  "author": "Paul Jaguin <paul@rocketegg.systems>",
+  "author": "Thisorp <Thisorp@rocketegg.systems>",
   "license": "MIT",
-  "homepage": "https://pauljaguin.com",
+  "homepage": "https://thisorp.id.vn",
   "scripts": {
     "dev": "vite --host",
     "sass": "sass --watch sass/main.scss:css/main.css",

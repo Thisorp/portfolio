@@ -183,14 +183,14 @@ onMounted(() => {
       <p class="italic text-gray-500 text-xxs mb-px">
         {{ $t('project.pangaia.CDMText') }}
       </p>
-      <img src="/img/projects/pangaia/pangaia-database-MCD.webp " alt="Modèle conceptuel de données - Pangaia" class="w-full max-w-[750px]" />
+      <img src="/portfolio/img/projects/pangaia/pangaia-database-MCD.webp " alt="Modèle conceptuel de données - Pangaia" class="w-full max-w-[750px]" />
     </div>
     <div>
       <h3 class="mt-5">{{ $t('common.PDM') }}</h3>
       <p class="italic text-gray-500 text-xxs">
         {{ $t('project.pangaia.PDMText') }}
       </p>
-      <img src="/img/projects/pangaia/MPD-Pangaia.svg" alt="Modèle conceptuel de données - Pangaia" class="w-full" />
+      <img src="/portfolio/img/projects/pangaia/MPD-Pangaia.svg" alt="Modèle conceptuel de données - Pangaia" class="w-full" />
     </div>
   </div>
   <a
